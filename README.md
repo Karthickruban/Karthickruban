@@ -44,8 +44,8 @@
 | [**Music-Emotion-Recognition**](https://github.com/Karthickruban/Music-Emotion-Recognition-using-CNN-and-HuBert) | Speech & Audio DSP | Fine-tuned HuBERT embeddings + 2D CNN spectrogram classification |
 | [**Monte-Carlo-Simulation-SCM**](https://github.com/Karthickruban/Monte-Carlo-Simulation-in-supply-chain-management) | Stochastic & Operations Research | GPU-accelerated Monte Carlo risk simulation & stochastic inventory optimization |
 | [**Vectorshield**](https://github.com/Karthickruban/Vectorshield) | Agentic AI & RAG Security | High-dimensional embedding anomaly detection & semantic guardrails |
-| [**AI-Driven-Cybersecurity-Threat-Prediction**](https://github.com/Karthickruban/AI-Driven-Cybersecurity-Threat-Prediction-and-Prevention) | Graph Neural Networks & Cyber Defense | Hybrid DNN vs GNN architecture achieving 97.56% stealth attack detection |
 | [**capital-budgeting-project**](https://github.com/Karthickruban/capital-budgeting-project) | Financial Modeling & Quantitative Analytics | Automated corporate capital budgeting, NPV/IRR valuation, and sensitivity analysis |
+
 
 ---
 
