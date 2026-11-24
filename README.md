@@ -40,6 +40,7 @@
 
 | Repository | Focus & Domain | Highlights |
 | :--- | :--- | :--- |
+| [**Quantum-Enabled-Grid-Planning (Q-CEP)**](https://github.com/Karthickruban/Quantum-Enabled-Capacity-Expansion-Planning) | Quantum Optimization & PyPSA | IEEE YESIST12 2026 Grand Finale Finalist; QUBO $\rightarrow$ QAOA temporal day selection |
 | [**Real-Time-Multimodal-Emotion-Detection**](https://github.com/Karthickruban/Real-Time-Multimodal-Emotion-Detection-with-YOLO-ViT-and-Spark-Streaming) | Computer Vision & Spark Streaming | YOLOv8 + ViT + Grad-CAM with Spark Structured Streaming medallion architecture |
 | [**Music-Emotion-Recognition**](https://github.com/Karthickruban/Music-Emotion-Recognition-using-CNN-and-HuBert) | Speech & Audio DSP | Fine-tuned HuBERT embeddings + 2D CNN spectrogram classification |
 | [**Monte-Carlo-Simulation-SCM**](https://github.com/Karthickruban/Monte-Carlo-Simulation-in-supply-chain-management) | Stochastic & Operations Research | GPU-accelerated Monte Carlo risk simulation & stochastic inventory optimization |
